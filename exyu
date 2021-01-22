@@ -1,5 +1,6 @@
-#EXTM3U
 #EXTINF:-1,*****SERBIEN CHANNEL*****
+#EXTINF:0,Kurir
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://globallyiptv.org:8080/visiontv/ZEHIBPPBwr/4955
 #EXTINF:-1,SR:RTS 1 SD
