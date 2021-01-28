@@ -1,20 +1,20 @@
 #EXTINF:-1,*****SERBIEN CHANNEL*****
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1,(RS) RTS 1 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/613
-#EXTINF:-1,(RS) RTS 2
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/612
-#EXTINF:-1,(RS) RTS 3 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/6153
-#EXTINF:-1,(RS) RTS Svet
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1521
-#EXTINF:-1,(RS) RTRS
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/614
-#EXTINF:-1,(RS) RTRS Plus
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/23425
-#EXTINF:-1,(RS) RTV 1
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/23424
+#EXTINF:-1,(RS) RTS Al jazeera Balkans
+https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
+#EXTINF:-1,(RS) Tv Leskovac
+http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1,(RS) Hram
+http:\\178.253.194.75:1935\live\hram.stream\.m3u8
+#EXTINF:-1,(RS) Duga +
+http:\\w10.streamgb.com:1935\dugaplus\dugaplus\playlist.m3u8
+#EXTINF:-1,(CG) Crna Gora Sat
+http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
+#EXTINF:-1,(CG) 777
+http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
+#EXTINF:-1,(BA) B1
+http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1,(RS) RTV 2
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24743
 #EXTINF:-1,(RS) O2TV
