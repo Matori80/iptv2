@@ -61,9 +61,10 @@ http://94.250.61.10:8000/play/pinkbh
 http://94.250.61.10:8000/play/a010
 #EXTINF:-1,Izvorna TV
 http://94.250.61.10:8000/play/izvorna
-#EXTM3U
+#EXTM3U:-1, RTL 2
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/173?checkedby:hlscat.com
 #EXTINF:-1,RS: 24 Kitchen
-http://attacktv.ddns.net:2052/0110/0110/56085
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1253?checkedby:hlscat.com
 #EXTINF:-1,RS: A TV
 http://attacktv.ddns.net:2052/0110/0110/56084
 #EXTINF:-1,RS: AMC
