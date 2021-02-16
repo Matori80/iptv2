@@ -61,10 +61,263 @@ http://94.250.61.10:8000/play/pinkbh
 http://94.250.61.10:8000/play/a010
 #EXTINF:-1,Izvorna TV
 http://94.250.61.10:8000/play/izvorna
-#EXTM3U:-1, RTL 2
+#EXTINF:-1, RTL 2
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/173?checkedby:hlscat.com
 #EXTINF:-1,RS: 24 Kitchen
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1253?checkedby:hlscat.com
+#EXTM3U
+#EXTINF:-1,EX-YU: Pink 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43096
+#EXTINF:-1,EX-YU: Pink 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43097
+#EXTINF:-1,EX: EX-YU Pink 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43098
+#EXTINF:-1,EX-YU: Pink Action
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43099
+#EXTINF:-1,EX-YU : Pink Comedy
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43100
+#EXTINF:-1,EX-YU: Pink Crime & Mistery
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43101
+#EXTINF:-1,EX-YU: Pink Film
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43102
+#EXTINF:-1,EX-YU: Pink Horror
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43103
+#EXTINF:-1,EX-YU: Pink Premium
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43104
+#EXTINF:-1,EX-YU: Pink Serije
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43105
+#EXTINF:-1,EX-YU: Pink Thriller
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43106
+#EXTINF:-1,EX-YU: Pink Western
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43107
+#EXTINF:-1,EX-YU: Pink classic
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43108
+#EXTINF:-1,EX-YU | Pink Extra
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43109
+#EXTINF:-1,EX-YU: Pink World
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43110
+#EXTINF:-1,EX-YU: Pink Soap
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43111
+#EXTINF:-1,EX-YU: Pink Show
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43112
+#EXTINF:-1,EX-YU: Pink HAHA
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43113
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43114
+#EXTINF:-1,EX-YU: Pink Zabava
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43115
+#EXTINF:-1,EX-YU: Pink LOL
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43116
+#EXTINF:-1,EX-YU: Pink Folk 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43117
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43118
+#EXTINF:-1,EX-YU: Pink Hits 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43119
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43120
+#EXTINF:-1,EX-YU: Pink Music 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43121
+#EXTINF:-1,EX-YU: Pink Music 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43122
+#EXTINF:-1,EX-YU: Pink Pedia
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43123
+#EXTINF:-1,EX-YU: Pink Romance
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43125
+#EXTINF:-1,SRB: RTS 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43127
+#EXTINF:-1,SRB: RTS 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43128
+#EXTINF:-1,SRB: RTS 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43129
+#EXTINF:-1,SRB: RTS SVET
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43131
+#EXTINF:-1,SRB: RTS ZIVOT
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43133
+#EXTINF:-1,SRB: PRVA
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43134
+#EXTINF:-1,SRB: PRVA WORLD
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43135
+#EXTINF:-1,SRB: PRVA PLUS
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43136
+#EXTINF:-1,SRB: HAPPY TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43138
+#EXTINF:-1,SRB | Nova S
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43139
+#EXTINF:-1,BiH: BN Sat
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43141
+#EXTINF:-1,BiH: Face Tv
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43142
+#EXTINF:-1,BiH: Nova BH
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43144
+#EXTINF:-1,BiH | BHT
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43145
+#EXTINF:-1,BiH | FTV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43146
+#EXTINF:-1,BiH: OBN
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43147
+#EXTINF:-1,BiH | Hayat Plus
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43148
+#EXTINF:-1,BiH: TV SLON
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43153
+#EXTINF:-1,BiH: TK Tuzla
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43154
+#EXTINF:-1,BiH: City tv
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43155
+#EXTINF:-1,BiH: N1 BIH
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43156
+#EXTINF:-1,BiH: Al Jazeera
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43157
+#EXTINF:-1,HR: HRT 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43159
+#EXTINF:-1,HR: HRT 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43160
+#EXTINF:-1,HR: HRT 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43161
+#EXTINF:-1,HR:  HRT 4
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43162
+#EXTINF:-1,HR: NOVA TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43163
+#EXTINF:-1,HR: DOMA TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43164
+#EXTINF:-1,HR: RTL
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43165
+#EXTINF:-1,HR: RTL 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43166
+#EXTINF:-1,HR:RTL CRIME
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43167
+#EXTINF:-1,HR: RTL LIVING
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43168
+#EXTINF:-1,HR: RTL KOCKICA
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43169
+#EXTINF:-1,HR: RTL Passion
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43170
+#EXTINF:-1,HR: LAUDATO TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43171
+#EXTINF:-1,HR: Banovina TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43173
+#EXTINF:-1,HR: Z1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43174
+#EXTINF:-1,EX-YU: HBO 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43177
+#EXTINF:-1,EX-YU: DIVA
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43178
+#EXTINF:-1,EX-YU: CineStar Premiere 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43183
+#EXTINF:-1,EX-YU: Cinemax
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43184
+#EXTINF:-1,EX-YU: Cinemax 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43185
+#EXTINF:-1,EX-YU | BN MUSIC
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43188
+#EXTINF:-1,EX-YU: Balkanika TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43189
+#EXTINF:-1,EX-YU: CMC
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43190
+#EXTINF:-1,EX-YU: DM SAT
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43191
+#EXTINF:-1,EX-YU: GRAND TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43192
+#EXTINF:-1,EX-YU: Grand TV 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43193
+#EXTINF:-1,EX-YU: KCN 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43194
+#EXTINF:-1,EX-YU: KCN 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43195
+#EXTINF:-1,EX-YU: KCN 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43196
+#EXTINF:-1,EX-YU: MTV Igman
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43197
+#EXTINF:-1,EX-YU: Jugoton
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43198
+#EXTINF:-1,EX-YU: Izvorna TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43199
+#EXTINF:-1,EX-YU: OTV Valentino
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43200
+#EXTINF:-1,EX-YU: NICKELODEON
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43202
+#EXTINF:-1,EX-YU | NICK JUNIOR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43203
+#EXTINF:-1,EX-YU: HAYATOVCI
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43204
+#EXTINF:-1,EX-YU: BABY TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43205
+#EXTINF:-1,EX-YU: Discovery
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43208
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43209
+#EXTINF:-1,EX-YU: 24 Kitchen
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43210
+#EXTINF:-1,EX-YU: History
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43211
+#EXTINF:-1,EX-YU: Lov i ribolov
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43212
+#EXTINF:-1,EX-YU: History h2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43213
+#EXTINF:-1,EX-YU | ARENA SPORT 1 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43215
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43216
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43217
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43219
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43220
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43222
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43223
+#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43224
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43225
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43226
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43227
+#EXTINF:-1,EX-YU: SPORT KLUB 4 HR
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43228
+#EXTINF:-1,EX-YU: SPORT KLUB 1 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43230
+#EXTINF:-1,EX-YU: SPORT KLUB 2 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43231
+#EXTINF:-1,EX-YU: SPORT KLUB 3 SRB
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43232
+#EXTINF:-1,EX-YU: Planet Sport 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43235
+#EXTINF:-1,EX-YU: Planet Sport 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43236
+#EXTINF:-1,EX-YU: Planet Sport 5
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43238
+#EXTINF:-1,EX-YU: Moja TV Premijer Liga
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43239
+#EXTINF:-1,SLO: HBO 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43242
+#EXTINF:-1,SLO: HBO 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43243
+#EXTINF:-1,SLO: SLO 3
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43246
+#EXTINF:-1,SLO: Pop TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43247
+#EXTINF:-1,MKD | MRT 1
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43249
+#EXTINF:-1,MKD MRT 2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43250
+#EXTINF:-1,MKD SITEL
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43251
+#EXTINF:-1,MKD  KANAL 5
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43253
+#EXTINF:-1,MKD ALFA
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43254
+#EXTINF:-1,MKD Sutel Tv
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43255
+#EXTINF:-1,Ex Yu:: TV Vijesti
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45316
+#EXTINF:-1,EX YU: NOVA M
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45317
+#EXTINF:-1,RS: 24 Kitchen
+http://attacktv.ddns.net:2052/0110/0110/56085
 #EXTINF:-1,RS: A TV
 http://attacktv.ddns.net:2052/0110/0110/56084
 #EXTINF:-1,RS: AMC
