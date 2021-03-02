@@ -15,28 +15,6 @@ http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
 http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
 #EXTINF:-1,(BA) B1
 http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
-
-#EXTINF:-1,Ault: Playboj
-http:\\187.188.147.165:8000\play\a00l\index.m3u8
-#EXTINF:-1,Adult: Miami Tv
-https:\\59ec5453559f0.streamlock.net\miamitv\smil:miamitvROKU\chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1,Adult: Miami live
-https:\\59ec5453559f0.streamlock.net\mexicotv\smil:miamitvmexicoROKU\chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1,Adult: Miami Latino
-https:\\59ec5453559f0.streamlock.net\canal18\smil:canal18\chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1,Adult: Private
-http:\\87.207.71.147:4000\play\a03b\index.m3u8
-#EXTINF:-1,Adult: Reality kings
-http:\\188.35.9.26:5031\udp\058j
-#EXTINF:-1,Adult: Red trafic big ass
-http:\\live.redtraffic.xyz\bigass.m3u8
-#EXTINF:-1,Adult: Redtrafic big dik
-http:\\live.redtraffic.xyz\bigdick.m3u8
-#EXTINF:-1,Adult: Redtrafic big tits
-http:\\live.redtraffic.xyz\bigtits.m3u8
-#EXTINF:-1,Adult: Redtrafic trojke
-http:\\live.redtraffic.xyz\threesome.m3u8
-#EXTM3U
 #EXTINF:-1,EX-YU: PINK 1
 http://server.sibfungold.info:8080/ahmed/ahmed123/1114
 #EXTINF:-1,EX-YU: PINK 2
@@ -765,4 +743,24 @@ http://bazarhd.online:80/307210150633/307210150633/85174
 http://bazarhd.online:80/307210150633/307210150633/85173
 #EXTINF:-1,EXYU| PLANETSPORT 3
 http://bazarhd.online:80/307210150633/307210150633/85172
+#EXTINF:-1,Ault: Playboj
+http:\\187.188.147.165:8000\play\a00l\index.m3u8
+#EXTINF:-1,Adult: Miami Tv
+https:\\59ec5453559f0.streamlock.net\miamitv\smil:miamitvROKU\chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1,Adult: Miami live
+https:\\59ec5453559f0.streamlock.net\mexicotv\smil:miamitvmexicoROKU\chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1,Adult: Miami Latino
+https:\\59ec5453559f0.streamlock.net\canal18\smil:canal18\chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1,Adult: Private
+http:\\87.207.71.147:4000\play\a03b\index.m3u8
+#EXTINF:-1,Adult: Reality kings
+http:\\188.35.9.26:5031\udp\058j
+#EXTINF:-1,Adult: Red trafic big ass
+http:\\live.redtraffic.xyz\bigass.m3u8
+#EXTINF:-1,Adult: Redtrafic big dik
+http:\\live.redtraffic.xyz\bigdick.m3u8
+#EXTINF:-1,Adult: Redtrafic big tits
+http:\\live.redtraffic.xyz\bigtits.m3u8
+#EXTINF:-1,Adult: Redtrafic trojke
+http:\\live.redtraffic.xyz\threesome.m3u8
 
