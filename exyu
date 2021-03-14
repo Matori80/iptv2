@@ -21,6 +21,8 @@ http:\\w10.streamgb.com:1935\dugaplus\dugaplus\playlist.m3u8
 http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
 #EXTINF:-1,(Maglaj BIH
 http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(CG) Vijesti
+http://hrv.00387.info/TV-VestiCG/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) 777
 http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
 #EXTINF:-1,(BA) B1
