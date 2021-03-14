@@ -13,6 +13,8 @@ http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nett
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1,(RS) Mars
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
+#EXTINF:-1, Srpska dijaspora
+https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1,(RS) Hram
 http:\\178.253.194.75:1935\live\hram.stream\.m3u8
 #EXTINF:-1,(RS) Duga +
