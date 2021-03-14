@@ -1,6 +1,8 @@
 #EXTINF:-1,*****SERBIEN CHANNEL*****
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1,(RS) K1
+http://mobilesvet.gcdn.co/k1/video.m3u8?md5=VxzGK1Q7QC3gZYZiEgVyeg&expires=1615734005&ak=8628524
 #EXTINF:-1,(RS) Al jazeera Balkans
 https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
 #EXTINF:-1,(RS) Tv Leskovac
