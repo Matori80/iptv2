@@ -1,14 +1,16 @@
 #EXTINF:-1,*****SERBIEN CHANNEL*****
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1,(RS) K1
-http://mobilesvet.gcdn.co/k1/video.m3u8?md5=VxzGK1Q7QC3gZYZiEgVyeg&expires=1615734005&ak=8628524
 #EXTINF:-1,(RS) Al jazeera Balkans
 https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
 #EXTINF:-1,(RS) Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1,(RS) K1
+http://mobilesvet.gcdn.co/k1/video.m3u8?md5=VxzGK1Q7QC3gZYZiEgVyeg&expires=1615734005&ak=8628524
 #EXTINF:-1,(RS) Tv Leskovac
 http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1, BN 2
+https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1,(RS) Hram
 http:\\178.253.194.75:1935\live\hram.stream\.m3u8
 #EXTINF:-1,(RS) Duga +
@@ -31,8 +33,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:hlscat.com
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/173?checkedby:hlscat.com
 #EXTINF:-1, BN Music
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43188?checkedby:hlscat.com
-#EXTINF:-1, BN 2
-https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1, Balkanika TV
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43189?checkedby:hlscat.com
 #EXTINF:-1, CMC
