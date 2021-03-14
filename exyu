@@ -215,8 +215,9 @@ http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1147?checkedby:hlsca
 http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8?checkedby:iptvsat.com&checkedby:hlscat.com
 #EXTINF:-1, Federalna
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/171?checkedby:hlscat.com
-
-#EXTINF:-1,Ault: Playboj
+#EXTINF:-1, Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/chunks.m3u8?nimblesessionid=1107503
+#EXTINF:-1,Adult: Playboj
 http:\\187.188.147.165:8000\play\a00l\index.m3u8
 #EXTINF:-1,Adult: Miami Tv
 https:\\59ec5453559f0.streamlock.net\miamitv\smil:miamitvROKU\chunklist_w1195980091_b2592000.m3u8
