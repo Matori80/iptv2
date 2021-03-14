@@ -25,8 +25,8 @@ http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
 http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1, Animal Planet
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1150?checkedby:hlscat.com
-#EXTINF:-1, B1
-http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:hlscat.com
+#EXTINF:-1, Slon Tuzla
+https://www.youtube.com/watch?v=YHLiGONh--I
 #EXTINF:-1, BHT
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43145?checkedby:hlscat.com
 #EXTINF:-1, RTL
