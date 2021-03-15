@@ -35,14 +35,14 @@ http://hrv.00387.info/a1TVCG/tracks-v1a1/mono.m3u8?token=test
 http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1, Animal Planet
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1150?checkedby:hlscat.com
-#EXTINF:-1, Slon Tuzla
-https://www.youtube.com/watch?v=YHLiGONh--I
+#EXTINF:-1, RTL-HR
+http://hrv.00387.info/RTLHR/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, BHT
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43145?checkedby:hlscat.com
 #EXTINF:-1, RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:hlscat.com
 #EXTINF:-1, RTL 2
-http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/173?checkedby:hlscat.com
+http://hrv.00387.info/RTL2HR/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, BN Music
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43188?checkedby:hlscat.com
 #EXTINF:-1, Balkanika TV
