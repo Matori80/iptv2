@@ -3,13 +3,29 @@
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,(RS) Al jazeera Balkans
 https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
+#EXTINF:-1,(RS) RTS 1
+http://srb.00387.info/RTS1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(RS) RTS 2
+http://srb.00387.info/RTS2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(RS) Prva 
+http://srb.00387.info/Prva/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(CG) Prva 
+http://srb.00387.info/PrvaCG/tracks-v1/mono.m3u8?token=test
+#EXTINF:-1,(RS) Prva +
+http://srb.00387.info/PrvaPlus/tracks-v1a1/2021/03/15/12/40/38-05000.ts?token=test
+#EXTINF:-1, 02
+http://srb.00387.info/O2TV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1, Pink
+http://srb.00387.info/Pink/tracks-v1a1/2021/03/15/12/33/24-06240.ts?token=test
 #EXTINF:-1,(RS) Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1, (BA) OBN
+http://bos.00387.info/OBN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(RS) K1
 http://mobilesvet.gcdn.co/k1/video.m3u8?md5=VxzGK1Q7QC3gZYZiEgVyeg&expires=1615734005&ak=8628524
 #EXTINF:-1,(RS) Tv Leskovac
 http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1, BN 2
+#EXTINF:-1, BN
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1,(RS) Mars
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
@@ -17,13 +33,17 @@ http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
 https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1,(RS) RTK 2
 http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
+#EXTINF:-1,(CG) CG 1
+http://srb.00387.info/CG:RTCG1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(CG) CG 2
+http://srb.00387.info/CG:RTCG2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(RS) Hram
 http:\\178.253.194.75:1935\live\hram.stream\.m3u8
 #EXTINF:-1,(RS) Duga +
 http:\\w10.streamgb.com:1935\dugaplus\dugaplus\playlist.m3u8
 #EXTINF:-1,(CG) Crna Gora Sat
 http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
-#EXTINF:-1,(Maglaj BIH
+#EXTINF:-1, Maglaj BIH
 http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) Vijesti
 http://hrv.00387.info/TV-VestiCG/tracks-v1a1/mono.m3u8?token=test
@@ -31,8 +51,14 @@ http://hrv.00387.info/TV-VestiCG/tracks-v1a1/mono.m3u8?token=test
 http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
 #EXTINF:-1,(CG) A1
 http://hrv.00387.info/a1TVCG/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(CG) Pink M
+http://hrv.00387.info/PinkMediaMontenegro/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(BA) B1
 http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
+#EXTINF:-1,(BA) Zenica
+http://bos.00387.info:27979/RTVZENICA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1, (RS) BelaMi Nis
+http://srb.00387.info/BELLEAMIENIS/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, Animal Planet
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1150?checkedby:hlscat.com
 #EXTINF:-1, RTL-HR
@@ -43,6 +69,8 @@ http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43145?checkedby:hlscat.com
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:hlscat.com
 #EXTINF:-1, RTL 2
 http://hrv.00387.info/RTL2HR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(BA) HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1, BN Music
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43188?checkedby:hlscat.com
 #EXTINF:-1, Balkanika TV
