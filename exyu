@@ -29,6 +29,8 @@ http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
 http://hrv.00387.info/TV-VestiCG/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) 777
 http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
+#EXTINF:-1,(CG) A1
+http://hrv.00387.info/a1TVCG/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(BA) B1
 http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1, Animal Planet
