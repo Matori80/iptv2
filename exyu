@@ -81,6 +81,8 @@ http://hrv.00387.info/RTL2HR/tracks-v1a1/mono.m3u8?token=test
 http:\\stream2.tvit.ba:80\live?channelId=6&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(BA) HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1,(BA) Vogosca
+http://bos.00387.info:27979/TVVogosca/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, Cinestar premiera 1
 http:\\stream3.tvit.ba:8088\live?channelId=86&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Cinestar premiera 2
