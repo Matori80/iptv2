@@ -31,6 +31,8 @@ http:\\cms.tvit.ba:80\live?channelId=30&uid=216&deviceMac=00:1A:79:2A:12:11
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1,(RS) Mars
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
+#EXTINF:-1,(RS) Pirot
+https://53a7ed211fc32.streamlock.net/tvpirot/uzivo/chunklist_w1093688285.m3u8
 #EXTINF:-1, Srpska dijaspora
 https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1,(RS) RTK 2
