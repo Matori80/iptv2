@@ -153,6 +153,8 @@ http:\\stream2.tvit.ba:80\live?channelId=120&uid=216&deviceMac=00:1A:79:2A:12:11
 http:\\stream4.tvit.ba:8088\live?channelId=166&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, RTL Pasion
 http:\\stream4.tvit.ba:8088\live?channelId=147&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Hram
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PRO 7
 http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Vox HD
