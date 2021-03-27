@@ -7,6 +7,10 @@ https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
 http://srb.00387.info/RTS1/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(RS) RTS 2
 http://srb.00387.info/RTS2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,(RS) RTV 1
+http://mobilesvet.gcdn.co/rtv1/video.m3u8?md5=sz65ET5Kx-oTpPWvQmFpFw&expires=1616943605&ak=8683968
+#EXTINF:-1,(RS) RTV 2
+http://mobilesvet.gcdn.co/rtv2/video.m3u8?md5=dXgT_9AbdiQ_LM5zy6q7zg&expires=1616943605&ak=8683968
 #EXTINF:-1,(RS) Prva 
 http://srb.00387.info/Prva/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) Prva 
@@ -39,6 +43,8 @@ https://53a7ed211fc32.streamlock.net/tvpirot/uzivo/chunklist_w1093688285.m3u8
 https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1,(RS) RTK 2
 http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
+#EXTINF:-1,(RS) Studio B
+http://mobilesvet2.gcdn.co/studiob/video.m3u8?md5=SmZC7LrJCIhWMvF28UoJ6A&expires=1616943605&ak=8683968
 #EXTINF:-1,(CG) CG 1
 http://srb.00387.info/CG:RTCG1/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) CG 2
@@ -101,6 +107,10 @@ http:\\stream3.tvit.ba:8088\live?channelId=86&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=87&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, TV 1000
 http:\\stream3.tvit.ba:8088\live?channelId=61&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Filmbox Extra
+http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=vkdGtg4XVw6x_GHRLtc4zQ&expires=1616943605&ak=8683968
+#EXTINF:-1, Filmbox stars
+http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=1mqkICy28bEbm6NQJy1jRw&expires=1616943605&ak=8683968
 #EXTINF:-1, DM Sat
 http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, IDJTV
