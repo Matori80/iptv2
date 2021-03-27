@@ -1,10 +1,6 @@
 #EXTINF:-1,*****SERBIEN CHANNEL*****
-#EXTINF:-1, N1 SRB
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97103
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1, Nova S
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97109
 #EXTINF:-1,(RS) Al jazeera Balkans
 https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
 #EXTINF:-1,(RS) RTS 1
@@ -17,10 +13,6 @@ http://srb.00387.info/Prva/tracks-v1a1/mono.m3u8?token=test
 http://srb.00387.info/PrvaCG/tracks-v1/mono.m3u8?token=test
 #EXTINF:-1,(RS) Prva +
 http:\\stream4.tvit.ba:8088\live?channelId=172&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(RS) Prva Kick
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97101
-#EXTINF:-1,(RS) Prva Files
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97102
 #EXTINF:-1, B92
 http://srb.00387.info/O2TV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, Pink
@@ -37,10 +29,6 @@ http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nett
 http:\\cms.tvit.ba:80\live?channelId=30&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, BN
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1, (BA) K3
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96803
-#EXTINF:-1, (BA) USK
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96790
 #EXTINF:-1,(RS) Mars
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
 #EXTINF:-1, Srpska dijaspora
@@ -61,8 +49,6 @@ http:\\stream4.tvit.ba:8088\live?channelId=69&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=70&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(CG) Crna Gora Sat
 http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
-#EXTINF:-1,(CG) Nova M
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96981
 #EXTINF:-1, Maglaj BIH
 http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) Vijesti
@@ -80,13 +66,7 @@ http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1,(BA) Zenica
 http://bos.00387.info:27979/RTVZENICA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(BA) FACE Tv
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96777
-#EXTINF:-1,(BA) O Sarajevo
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96794
-#EXTINF:-1,(BA) Alternativna TV
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96788
-#EXTINF:-1,(BA) Krajina HD
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96792
+http://bos.00387.info:8080/FACETV2/tracks-v1a1/2021/03/27/16/42/57-07200.ts?token=test
 #EXTINF:-1, (RS) BelaMi Nis
 http://srb.00387.info/BELLEAMIENIS/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, RTL-HR
@@ -97,8 +77,6 @@ http:\\stream2.tvit.ba:80\live?channelId=14&uid=216&deviceMac=00:1A:79:2A:12:11
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:hlscat.com
 #EXTINF:-1, RTL 2
 http://hrv.00387.info/RTL2HR/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, Nova HR
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96819
 #EXTINF:-1, FTV
 http:\\stream2.tvit.ba:80\live?channelId=6&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(BA) HB
@@ -109,18 +87,6 @@ http:\\stream3.tvit.ba:8088\live?channelId=86&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=87&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, TV 1000
 http:\\stream3.tvit.ba:8088\live?channelId=61&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Klasik TV
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96891
-#EXTINF:-1, SuperStar
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96883
-#EXTINF:-1, M1 film
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96892
-#EXTINF:-1, M1 Gold
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96893
-#EXTINF:-1, Kino TV
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96895
-#EXTINF:-1, Jugoton
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97006
 #EXTINF:-1, DM Sat
 http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, IDJTV
@@ -131,8 +97,6 @@ http:\\stream3.tvit.ba:8088\live?channelId=90&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=27&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(RS) Duga +
 http:\\w10.streamgb.com:1935\dugaplus\dugaplus\playlist.m3u8
-#EXTINF:-1, Food Network
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96936
 #EXTINF:-1, 24 Kitchen 
 http:\\stream4.tvit.ba:8088\live?channelId=82&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Animal Planet
@@ -157,24 +121,6 @@ http:\\stream4.tvit.ba:8088\live?channelId=140&uid=216&deviceMac=00:1A:79:2A:12:
 http:\\stream4.tvit.ba:8088\live?channelId=160&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Lov i ribolov
 http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Agro TV
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96905
-#EXTINF:-1, Nature
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96924
-#EXTINF:-1, Viasat History
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96925
-#EXTINF:-1, Explorer
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96926
-#EXTINF:-1, Travel XP
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96913
-#EXTINF:-1, TLC
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96918
-#EXTINF:-1, E!
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96919
-#EXTINF:-1, DOKU
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96920
-#EXTINF:-1, DOCUBOX
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\96923
 #EXTINF:-1, AXN
 http:\\stream4.tvit.ba:8088\live?channelId=138&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Fox
@@ -207,24 +153,6 @@ http:\\stream2.tvit.ba:80\live?channelId=120&uid=216&deviceMac=00:1A:79:2A:12:11
 http:\\stream4.tvit.ba:8088\live?channelId=166&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, RTL Pasion
 http:\\stream4.tvit.ba:8088\live?channelId=147&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Glas Drine
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/chunks.m3u8?nimblesessionid=1107503
-#EXTINF:-1, Mlava Tv
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97119
-#EXTINF:-1, BellaMi
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97120
-#EXTINF:-1, Palma Plus
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97124
-#EXTINF:-1, Novi Pazar
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97118
-#EXTINF:-1, Sandzak TV
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97116
-#EXTINF:-1, RTS Trezor
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97111
-#EXTINF:-1, RTS Drama
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97114
-#EXTINF:-1, RTS Zivot
-http:\\4kiptv.vip:25461\O9KnsgsjxGC0Phu\aZKG7pHMAocZdg2\97110
 #EXTINF:-1, PRO 7
 http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Vox HD
