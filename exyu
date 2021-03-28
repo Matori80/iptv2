@@ -21,6 +21,8 @@ http:\\stream4.tvit.ba:8088\live?channelId=172&uid=216&deviceMac=00:1A:79:2A:12:
 http://srb.00387.info/PrvaMaX/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1, B92
 http://srb.00387.info/O2TV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1, Happy
+http:\\stream3.tvit.ba:8088\live?channelId=174&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Pink
 http:\\stream3.tvit.ba:8088\live?channelId=91&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(RS) Red TV
@@ -31,6 +33,10 @@ http://bos.00387.info/OBN/tracks-v1a1/mono.m3u8?token=test
 http://mobilesvet.gcdn.co/k1/video.m3u8?md5=rUDaKSZLWHLJSVJOREmm1A&expires=1615820404&ak=8632164
 #EXTINF:-1,(RS) Tv Leskovac
 http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1,(RS) Kragujevac
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CoUFBV3oSujRZmJGEIDW2oXTxJLq0h53m-_iXgEPsPJfgO_rVUX1zoSfma4D03r7tsvRSU3zpuYaTmqircYzTpHRan-ur-rkOVQ5RT3m9Gr7ABeAcD0YauOcVw8TfKRV9AjjBDnG8xm8kat2gNg1yf_6zCRvX5RShY_Raklo19gUut6HIm4wmK-UaEXvNgnzVok9nF19XMGz68i3oBEyboIgUV8Yg8XCWL_bF0lSo_lL0nNRMrylkJ13H5FknYhAO4W3dXr9UuC3L6CFvVr7sC9D5aG-4Klc1iB-sZbp2oXG8h3Ntxvhu4M9-E5lcrvEHnG2_Bl-l-_ckosB9kvXUdPqKeTFNQcRUnVck1_TlCQgZga66V1kd-UcOWCdqWKDf2gAg9Ft1iWfIr1EQdS0nbjqj5bVrL-3IzZnfm49aqXwt9gYWXGjDfMj8kd7hWs1tg92Ai6eK1NO07E449b_4iiqB-BA30yzc-FavDWvRKJqt9dH-MZcFx56c_gIrsY0WYYCIuHebAaSwV2uJyEy9ONRSXgyrqSfr6MBflV_7lLFS1jWUhaSPBH7XLfYhc0yTRXCCAZ8pgSWAhc8jaOQNu1xi79CQ1amoFyrK8wFVYp2Hf49VlyM9gl8DJRpXqP34T-YffaUCizzamspEb252pnQCYisXLclrg59tnO87nqbvEdf_TIUp_ZCY4hM-uakeKLRvUGcQ7juUooUZ50cxrjeAB2MIh6YYVAfZAvRMnsn6BO2cGUjZAWZcA3jgoWSVhAMsewV39kR3RT4dISzeJPtsQGMIvi-Sh6iy9seCRA5ZRsggcChgLoZ9ummZ84WGmbHjPkeufbmfK-J2EfZ5hHV-CfsukscEhCXhP9LFy9gC89Kef-GZPoPGgyLTtCtXOf6FZC0ays.m3u8
+#EXTINF:-1,(RS) Novi Pazar
+https://rtvnp.rs/hls/rtvnp.m3u8
 #EXTINF:-1, RTRS
 http:\\cms.tvit.ba:80\live?channelId=30&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, BN
@@ -155,8 +161,6 @@ http:\\stream4.tvit.ba:8088\live?channelId=43&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream4.tvit.ba:8088\live?channelId=233&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Grand
 http:\\stream4.tvit.ba:8088\live?channelId=55&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Happy
-http:\\stream3.tvit.ba:8088\live?channelId=174&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, HBO 1
 http:\\stream4.tvit.ba:8088\live?channelId=84&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, HBO 2
