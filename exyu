@@ -151,6 +151,8 @@ http:\\stream4.tvit.ba:8088\live?channelId=140&uid=216&deviceMac=00:1A:79:2A:12:
 http:\\stream4.tvit.ba:8088\live?channelId=160&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Lov i ribolov
 http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Docubox
+http:\\147.78.163.247:8000\play\a01y
 #EXTINF:-1, AXN
 http:\\stream4.tvit.ba:8088\live?channelId=138&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Fox
