@@ -30,7 +30,7 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1, (BA) OBN
 http://bos.00387.info/OBN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(RS) K1
-http://mobilesvet.gcdn.co/k1/video.m3u8?md5=rUDaKSZLWHLJSVJOREmm1A&expires=1615820404&ak=8632164
+http://mobilesvet.gcdn.co/k1/video.m3u8?md5=PCRd6yIyKYLLAMjniz6L2Q&expires=1617026405&ak=8692020
 #EXTINF:-1,(RS) Tv Leskovac
 http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
 #EXTINF:-1,(RS) Kragujevac
@@ -119,6 +119,8 @@ http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=vkdGtg4XVw6x_GHRLtc4zQ&expires=1
 http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=1mqkICy28bEbm6NQJy1jRw&expires=1616943605&ak=8683968
 #EXTINF:-1, DM Sat
 http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Amari tv
+https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDJTV
 http:\\stream4.tvit.ba:8088\live?channelId=88&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, MTV
