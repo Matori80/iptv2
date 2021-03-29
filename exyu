@@ -195,26 +195,6 @@ http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=49&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, CNN
 http:\\stream3.tvit.ba:8088\live?channelId=52&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,Adult: Playboj
-http:\\187.188.147.165:8000\play\a00l\index.m3u8
-#EXTINF:-1,Adult: Miami Tv
-https:\\59ec5453559f0.streamlock.net\miamitv\smil:miamitvROKU\chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1,Adult: Miami live
-https:\\59ec5453559f0.streamlock.net\mexicotv\smil:miamitvmexicoROKU\chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1,Adult: Miami Latino
-https:\\59ec5453559f0.streamlock.net\canal18\smil:canal18\chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1,Adult: Private
-http:\\stream2.tvit.ba:80\live?channelId=123&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,Adult: Reality kings
-http:\\188.35.9.26:5031\udp\058j
-#EXTINF:-1,Adult: Red trafic big ass
-http:\\live.redtraffic.xyz\bigass.m3u8
-#EXTINF:-1,Adult: Redtrafic big dik
-http:\\live.redtraffic.xyz\bigdick.m3u8
-#EXTINF:-1,Adult: Redtrafic big tits
-http:\\live.redtraffic.xyz\bigtits.m3u8
-#EXTINF:-1,Adult: Redtrafic trojke
-http:\\live.redtraffic.xyz\threesome.m3u8
 #EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="XXX",A3BIKINI TV (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Anal
