@@ -82,7 +82,7 @@ http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
 #EXTINF:-1,(BA) Zenica
 http://bos.00387.info:27979/RTVZENICA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(BA) Krajina HD
-http://77.243.11.114/live/rtvkrajina
+rtmp://77.243.11.114/live/rtvkrajina
 #EXTINF:-1,(BA) FACE Tv
 http://bos.00387.info:8080/FACETV2/tracks-v1a1/2021/03/27/16/42/57-07200.ts?token=test
 #EXTINF:-1, (RS) BelaMi Nis
