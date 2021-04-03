@@ -157,6 +157,10 @@ http:\\stream4.tvit.ba:8088\live?channelId=160&uid=216&deviceMac=00:1A:79:2A:12:
 http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Docubox
 http:\\147.78.163.247:8000\play\a01y
+#EXTINF:-1, Foodnetwork
+http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\528
+#EXTINF:-1, Destinacion America
+http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\508
 #EXTINF:-1, AXN
 http:\\stream4.tvit.ba:8088\live?channelId=138&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Fox
@@ -189,6 +193,10 @@ http:\\stream4.tvit.ba:8088\live?channelId=166&uid=216&deviceMac=00:1A:79:2A:12:
 http:\\stream4.tvit.ba:8088\live?channelId=147&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Hram
 https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Telemundo
+http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\658
+#EXTINF:-1, Bravo
+http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\489
 #EXTINF:-1, PRO 7
 http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Vox HD
@@ -335,5 +343,29 @@ http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="XXX",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-
+#EXTINF:-1, Brazzers
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\295
+#EXTINF:-1, Adult 1
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\299
+#EXTINF:-1, Hotwife
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\307
+#EXTINF:-1,Playboy
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\290
+#EXTINF:-1, Erotica 1
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\308
+#EXTINF:-1, Erotica 2
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\309
+#EXTINF:-1, Erotica 3
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\316
+#EXTINF:-1, Erotica 4
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\319
+#EXTINF:-1, Porn tv
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\322
+#EXTINF:-1, Alba tv
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\1105
+#EXTINF:-1, Alba 2 tv
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\1107
+#EXTINF:-1, Alba 3 tv
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\301
+#EXTINF:-1, Dorcel
+http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\294
