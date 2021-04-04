@@ -25,6 +25,8 @@ http://srb.00387.info/O2TV/tracks-v1a1/mono.m3u8?token=test
 http:\\stream3.tvit.ba:8088\live?channelId=174&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Pink
 http:\\stream3.tvit.ba:8088\live?channelId=91&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, KCN1
+http://85.14.32.15:8800/udp/239.100.20.31:8888
 #EXTINF:-1,(RS) Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1, (BA) OBN
@@ -121,12 +123,28 @@ http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=vkdGtg4XVw6x_GHRLtc4zQ&expires=1
 http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=1mqkICy28bEbm6NQJy1jRw&expires=1616943605&ak=8683968
 #EXTINF:-1, DM Sat
 http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Grand
+http:\\stream4.tvit.ba:8088\live?channelId=55&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, BN Music
+http://85.14.32.15:8800/udp/239.100.10.137:5000
 #EXTINF:-1, Amari tv
 https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDJTV
 http:\\stream4.tvit.ba:8088\live?channelId=88&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, MTV
 http:\\stream3.tvit.ba:8088\live?channelId=90&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1,MTV 80s
+http://85.14.32.15:8800/udp/239.100.10.171:5000
+#EXTINF:-1,MTV Hits
+http://85.14.32.15:8800/udp/239.100.10.65:5000
+#EXTINF:-1,MTV 90s
+http://85.14.32.15:8800/udp/239.100.10.66:5000
+#EXTINF:-1,MTV Live HD
+http://85.14.32.15:8800/udp/239.10.10.16:5000
+#EXTINF:-1, VH1
+http://85.14.32.15:8800/udp/239.100.10.105:5000
+#EXTINF:-1,Hit Mix Music
+http://85.14.32.15:8800/udp/239.100.10.199:5000
 #EXTINF:-1, Balkanika TV
 http:\\stream3.tvit.ba:8088\live?channelId=27&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,(RS) Duga +
@@ -159,6 +177,8 @@ http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\147.78.163.247:8000\play\a01y
 #EXTINF:-1, Foodnetwork
 http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\528
+#EXTINF:-1,Food Network HD
+http://85.14.32.15:8800/udp/239.10.10.4:5000
 #EXTINF:-1, Destinacion America
 http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\508
 #EXTINF:-1, AXN
@@ -169,8 +189,6 @@ http:\\stream4.tvit.ba:8088\live?channelId=167&uid=216&deviceMac=00:1A:79:2A:12:
 http:\\stream4.tvit.ba:8088\live?channelId=43&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Fox crime
 http:\\stream4.tvit.ba:8088\live?channelId=233&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Grand
-http:\\stream4.tvit.ba:8088\live?channelId=55&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, HBO 1
 http:\\stream4.tvit.ba:8088\live?channelId=84&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, HBO 2
@@ -203,6 +221,44 @@ http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:1
 http:\\stream3.tvit.ba:8088\live?channelId=49&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, CNN
 http:\\stream3.tvit.ba:8088\live?channelId=52&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1,Russia Today
+http://85.14.32.15:8800/udp/239.100.10.133:5000
+#EXTINF:-1,BBC World News
+http://85.14.32.15:8800/udp/239.100.20.49:8888
+#EXTINF:-1,Euronews Russian
+http://85.14.32.15:8800/udp/239.100.20.50:8888
+#EXTINF:-1,NTV MIR
+http://85.14.32.15:8800/udp/239.100.20.51:8888
+#EXTINF:-1,TVE Internacional HD
+http://85.14.32.15:8800/udp/239.100.20.7:8888
+#EXTINF:-1,Discovery HD
+http://200.95.184.42:8000/play/a0e1
+#EXTINF:-1,Discovery Theater HD
+http://200.95.184.42:8000/play/a0am
+#EXTINF:-1,Discovery World HD
+http://200.95.184.42:8000/play/a05b
+#EXTINF:-1,History 2 HD
+http://200.95.184.42:8000/play/a0e4
+#EXTINF:-1,History Channel HD
+http://200.95.184.42:8000/play/a06b
+#EXTINF:-1,Nat Geo HD
+http://200.95.184.42:8000/play/a05a
+#EXTINF:-1,Nat Geo Wild HD
+http://200.95.184.42:8000/play/a0an
+#EXTINF:-1,Challenge
+http://37.220.108.9:8000/play/a00t/index.m3u8
+#EXTINF:-1,Channel 4
+http://37.220.108.9:8000/play/a02a/index.m3u8
+#EXTINF:-1,Channel 4 HD
+http://37.220.108.9:8000/play/a00l/index.m3u8
+#EXTINF:-1,Channel 4+1
+http://37.220.108.9:8000/play/a02e/index.m3u8
+#EXTINF:-1,BBC ONE HD
+http://37.220.108.9:8000/play/a00j/index.m3u8
+#EXTINF:-1,BBC TWO HD
+http://37.220.108.9:8000/play/a00i/index.m3u8
+#EXTINF:-1,BBC FOUR HD
+http://37.220.108.9:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="XXX",A3BIKINI TV (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Anal
@@ -369,3 +425,7 @@ http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\1107
 http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\301
 #EXTINF:-1, Dorcel
 http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\294
+#EXTINF:-1, HUSTLER hd
+http://85.14.32.15:8800/udp/239.100.10.58:5000
+#EXTINF:-1, PAASSION
+http://85.14.32.15:8800/udp/239.100.10.90:5000
