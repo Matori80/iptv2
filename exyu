@@ -259,6 +259,46 @@ http://37.220.108.9:8000/play/a00j/index.m3u8
 http://37.220.108.9:8000/play/a00i/index.m3u8
 #EXTINF:-1,BBC FOUR HD
 http://37.220.108.9:8000/play/a034/index.m3u8
+#EXTINF:-1, Art
+rtmp://92.60.237.39/live/test
+#EXTINF:-1, TV As
+http://185.20.36.233:8080/stream?sp=partners&channel=tvassi3sbb&stream=1mb&b=6&player=m3u8&u=tvas&p=tva5str3am1ng
+#EXTINF:-1, Melos
+rtmp://46.151.133.87/live/melos
+#EXTINF:-1,Jefimija
+rtmp://212.200.108.253/live/jefimija.flv
+#EXTINF:-1, Krusevac
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1, Cizy UB
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1, BAP
+https://5bc45691ca49f.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1, Pi
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1, Pirot tv
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1, Subotica
+http://185.20.36.4:8080/stream?sp=partners&channel=tvsubotica&stream=1mb&b=6&player=m3u8&u=citytv&p=c1tysubotic@&adamptive=false
+#EXTINF:-1, Mars Valjevo
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1, Tv Mir
+http://91.187.119.106:8027/rtvmir/index.m3u8
+#EXTINF:-1, Mis tv
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
+#EXTINF:-1, TK
+rtmp://91.148.117.134/tkturist/tkturist
+#EXTINF:-1, Kanal M
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1, Puls
+http://stream.rtvpuls.com/broadcasting
+#EXTINF:-1, Sandzak
+http://46.240.128.178:4444/STVHD
+#EXTINF:-1, Pruga TV
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1, Panon TV
+http://79.172.194.189/hls/pannonrtv/live.m3u8
+#EXTINF:-1, Tesla Vision
+http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 #EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="XXX",A3BIKINI TV (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Anal
