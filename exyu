@@ -32,7 +32,7 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1, (BA) OBN
 http://bos.00387.info/OBN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(RS) K1
-http://mobilesvet.gcdn.co/k1/video.m3u8?md5=y-fQsXpkcuhgy-LyzDJqvA&expires=1617458405&ak=8707964
+hhttp://mobilesvet.gcdn.co/k1/2021/04/11/15/34/05-10000.ts
 #EXTINF:-1,(RS) Tv Leskovac
 http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
 #EXTINF:-1,(RS) Kragujevac
