@@ -52,7 +52,7 @@ https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1,(RS) RTK 2
 http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
 #EXTINF:-1,(RS) Studio B
-http://mobilesvet2.gcdn.co/studiob/video.m3u8?md5=SmZC7LrJCIhWMvF28UoJ6A&expires=1616943605&ak=8683968
+http://mobilesvet2.gcdn.co/studiob/video.m3u8?md5=ZMec5I1Zz1poYBnryiA99Q&expires=1618221604&ak=8753068
 #EXTINF:-1,(CG) CG 1
 http://srb.00387.info/CG:RTCG1/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,(CG) CG 2
