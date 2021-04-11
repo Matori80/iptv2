@@ -121,6 +121,8 @@ http:\\stream3.tvit.ba:8088\live?channelId=61&uid=216&deviceMac=00:1A:79:2A:12:1
 http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=vkdGtg4XVw6x_GHRLtc4zQ&expires=1616943605&ak=8683968
 #EXTINF:-1, Filmbox stars
 http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=1mqkICy28bEbm6NQJy1jRw&expires=1616943605&ak=8683968
+#EXTINF:-1, S televizija
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
 #EXTINF:-1, DM Sat
 http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1, Grand
