@@ -182,7 +182,7 @@ http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:1
 #EXTINF:-1, Docubox
 http:\\147.78.163.247:8000\play\a01y
 #EXTINF:-1, Foodnetwork
-http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\528
+http://ip365.cx:80/591479399642519/845556651954303/174150?checkedby:hlscat.com
 #EXTINF:-1,Food Network HD
 http://85.14.32.15:8800/udp/239.10.10.4:5000
 #EXTINF:-1, Destinacion America
