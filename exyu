@@ -1,318 +1,17 @@
-#EXTINF:-1,*****SERBIEN CHANNEL*****
-#EXTINF:0,Kurir
+#EXTINF:-1,************ SERBIAN **************
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/526
+#EXTINF:-1,N1 SRB
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/674
+#EXTINF:-1,(RS) N1 Srbija
+http://fresat.live:8080/alvaro/alvaro/353516?checkedby:hlscat.com
+#EXTINF:-1,Nova S TV
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/783
+#EXTINF:-1,NOVA RS
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/342
+#EXTINF:-1,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,(RS) Al jazeera Balkans
 https:\\live-hls-web-ajb.getaj.net\AJB\index.m3u8
-#EXTINF:-1,(RS) N1
-http://fresat.live:8080/alvaro/alvaro/353516?checkedby:hlscat.com
-#EXTINF:-1,(RS)Nova
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/8153?checkedby:hlscat.com
-#EXTINF:-1,(RS) RTS 1
-http://srb.00387.info/RTS1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(RS) RTS 2
-http://srb.00387.info/RTS2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(RS) RTV 1
-rtsp:\\212.200.255.151\rtv1
-#EXTINF:-1,(RS) RTV 2
-rtsp:\\212.200.255.151\rtv2
-#EXTINF:-1,(RS) Prva 
-http://srb.00387.info/Prva/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(CG) Prva 
-http://srb.00387.info/PrvaCG/tracks-v1/mono.m3u8?token=test
-#EXTINF:-1,(RS) Prva +
-http:\\stream4.tvit.ba:8088\live?channelId=172&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(RS) Prva Max
-http://srb.00387.info/PrvaMaX/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, B92
-http://srb.00387.info/O2TV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, Happy
-http:\\stream3.tvit.ba:8088\live?channelId=174&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Pink
-http:\\stream3.tvit.ba:8088\live?channelId=91&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, KCN1
-http://85.14.32.15:8800/udp/239.100.20.31:8888
-#EXTINF:-1,(RS) Red TV
-https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1, (BA) OBN
-http://bos.00387.info/OBN/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(RS) K1
-hhttp://mobilesvet.gcdn.co/k1/2021/04/11/15/34/05-10000.ts
-#EXTINF:-1,(RS) Tv Leskovac
-http:\\best.str.nettvplus.com:8080\stream\?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1,(RS) Kragujevac
-https://video-edge-69c150.vie01.no-abs.hls.ttvnw.net/v1/segment/CrcF8DJZ5lHbue5jkat7sSCHMjFdYA1DWpsK0FRTNRroSHvjCHZSWAtFB_llOMQn8VYf4WQyOPtVZw6WiDNq2J8N-WYFzMmXK1pn17kIAqyBG7ffjI0aJTkWy2VqG1cQsJBh_RcHUAZXJQoUcn3DJE0wcGfW-D4AMqTvoIPeYFVb3wahNg9pz7igCzpsAsjD8uNumO8KvLBXMLxOduTDkdTNVy8vP-eou6FqWdJfBesQMfdUoD9_wRn_AKcyzlT0IHz6oBbA9ihyspCVhXLU2zF3Y13soA5xcM9YJsoekzSDdbN6zgkBtmIUwGm0vPztskSywTkGG77YaNQqifXe82zYb044SSxfLP-3gY5uFlnQtaA1QH5xwFgS4jUwJt1kcuX5vv05pH8GoDS5dCH69Ndmt9y4uE9rfuRqpRVc_H3BqOQXW7lkajhX2dv57LY6emR6lhspcup1eUs6jmbGPAEW09elcujzmxPlZaCoZjvNMZb5pidItPwZWhVoduoIHlmzCwJZEEUwt75yAtqtLVYiHJ2JwSAaG94AFPbtiNqAXSr6iZsLn3xTuGnbQ_5E48JmWSN5pwEFwAqNjPNz5OyMFvHfU8T58RbAFqz3pdw896depBvD8_gia4GXqd-WB1tVdKxC8PdACVKndtiNCgReMNkAEMDZZ5gowfMq-6fvcxHQcnmYuAGxEx5w1u3OrdUwuuob1KZCsHWcW9W96sO5EQ9MsDanq-FrXJbRjbYn1rtk2S0PHp3_XVp49u0PKMj61_9XFlSUFj1H-ErBIodHpPTRwXpKhizFLBX01vnW05G1TY3vtgvoOFm4dXOau-KplSUljsV23gLsF2m3YGQN_alKct2t5brlVi5fT6yuOf4hBAe4JWFFKhmmKEafAaX6KUuYg_9efBFlDisNp4OLDvwORbcK38waDOhzfjXQjlJyPq-MQiABKgZsZWdhY3k.m3u8
-#EXTINF:-1,(RS) Novi Pazar
-https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1, RTRS
-http:\\cms.tvit.ba:80\live?channelId=30&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, BN
-https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1,(RS) Mars
-http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
-#EXTINF:-1,(RS) Pirot
-https://53a7ed211fc32.streamlock.net/tvpirot/uzivo/chunklist_w1093688285.m3u8
-#EXTINF:-1, Srpska dijaspora
-https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1,(RS) RTK 2
-http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
-#EXTINF:-1,(RS) Studio B
-http://mobilesvet2.gcdn.co/studiob/video.m3u8?md5=ZMec5I1Zz1poYBnryiA99Q&expires=1618221604&ak=8753068
-#EXTINF:-1,(CG) CG 1
-http://srb.00387.info/CG:RTCG1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(CG) CG 2
-http://srb.00387.info/CG:RTCG2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, HRT1
-http:\\stream4.tvit.ba:8088\live?channelId=67&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, HRT 2
-http:\\stream4.tvit.ba:8088\live?channelId=68&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,HRT 3
-http:\\stream4.tvit.ba:8088\live?channelId=69&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, HRT 4
-http:\\stream3.tvit.ba:8088\live?channelId=70&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(CG) Crna Gora Sat
-http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
-#EXTINF:-1, Maglaj BIH
-http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(CG) Vijesti
-http://hrv.00387.info/TV-VestiCG/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(CG) 777
-http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
-#EXTINF:-1,(CG) A1
-http://hrv.00387.info/a1TVCG/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(CG) Pink M
-http://hrv.00387.info/PinkMediaMontenegro/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, Doma TV
-http:\\stream4.tvit.ba:8088\live?channelId=150&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(BA) B1
-http:\\wowza.bihnet.net:88\hls\b1-live.m3u8
-#EXTINF:-1,(BA) Zenica
-http://bos.00387.info:27979/RTVZENICA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(BA) Krajina HD
-rtmp://77.243.11.114/live/rtvkrajina
-#EXTINF:-1,(BA) FACE Tv
-http://bos.00387.info:27979/FACETV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, (RS) BelaMi Nis
-http://srb.00387.info/BELLEAMIENIS/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, RTL-HR
-http://hrv.00387.info/RTLHR/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, BHT
-http:\\stream2.tvit.ba:80\live?channelId=14&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:hlscat.com
-#EXTINF:-1, RTL 2
-http://hrv.00387.info/RTL2HR/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, FTV
-http:\\stream2.tvit.ba:80\live?channelId=6&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(BA) HB
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1,(BA) Vogosca
-http://bos.00387.info:27979/TVVogosca/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(BA) Hit
-http://bos.00387.info:27979/RTVHITBRCKO/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(BA) Sana
-http://bos.00387.info:27979/SANATV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(BA) USK
-http://bos.00387.info:27979/RTVUSK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,(BA) Tatabrada
-http://bos.00387.info:8080/TATABRADATV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1, Cinestar premiera 1
-http:\\stream3.tvit.ba:8088\live?channelId=86&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Cinestar premiera 2
-http:\\stream3.tvit.ba:8088\live?channelId=87&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, TV 1000
-http:\\stream3.tvit.ba:8088\live?channelId=61&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Filmbox Extra
-http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=vkdGtg4XVw6x_GHRLtc4zQ&expires=1616943605&ak=8683968
-#EXTINF:-1, Filmbox stars
-http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=1mqkICy28bEbm6NQJy1jRw&expires=1616943605&ak=8683968
-#EXTINF:-1, S televizija
-https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
-#EXTINF:-1, DM Sat
-http:\\stream3.tvit.ba:8088\live?channelId=25&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Grand
-http:\\stream4.tvit.ba:8088\live?channelId=55&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, BN Music
-http://85.14.32.15:8800/udp/239.100.10.137:5000
-#EXTINF:-1, Amari tv
-https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IDJTV
-http:\\stream4.tvit.ba:8088\live?channelId=88&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, MTV
-http:\\stream3.tvit.ba:8088\live?channelId=90&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,MTV 80s
-http://85.14.32.15:8800/udp/239.100.10.171:5000
-#EXTINF:-1,MTV Hits
-http://85.14.32.15:8800/udp/239.100.10.65:5000
-#EXTINF:-1,MTV 90s
-http://85.14.32.15:8800/udp/239.100.10.66:5000
-#EXTINF:-1,MTV Live HD
-http://85.14.32.15:8800/udp/239.10.10.16:5000
-#EXTINF:-1, VH1
-http://85.14.32.15:8800/udp/239.100.10.105:5000
-#EXTINF:-1,Hit Mix Music
-http://85.14.32.15:8800/udp/239.100.10.199:5000
-#EXTINF:-1, Balkanika TV
-http:\\stream3.tvit.ba:8088\live?channelId=27&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,(RS) Duga +
-http:\\w10.streamgb.com:1935\dugaplus\dugaplus\playlist.m3u8
-#EXTINF:-1, 24 Kitchen 
-http:\\stream4.tvit.ba:8088\live?channelId=82&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Animal Planet
-http:\\stream3.tvit.ba:8088\live?channelId=42&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Nat Geo
-http:\\stream4.tvit.ba:8088\live?channelId=32&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Nat Geo Wild
-http:\\stream4.tvit.ba:8088\live?channelId=33&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Discovery
-http:\\stream1.tvit.ba:8088\live?channelId=37&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Discovery SC
-http:\\stream2.tvit.ba:80\live?channelId=156&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, BBC Earth
-http:\\stream4.tvit.ba:8088\live?channelId=158&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, History
-http:\\stream4.tvit.ba:8088\live?channelId=164&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, History 2
-http:\\stream3.tvit.ba:8088\live?channelId=195&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, HGTV
-http:\\stream4.tvit.ba:8088\live?channelId=140&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Travel chanel
-http:\\stream4.tvit.ba:8088\live?channelId=160&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Lov i ribolov
-http:\\stream3.tvit.ba:8088\live?channelId=23&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Docubox
-http:\\147.78.163.247:8000\play\a01y
-#EXTINF:-1, Foodnetwork
-http://ip365.cx:80/591479399642519/845556651954303/174150?checkedby:hlscat.com
-#EXTINF:-1,Food Network HD
-http://85.14.32.15:8800/udp/239.10.10.4:5000
-#EXTINF:-1, Agro TV
-http://bazarhd.online:80/0144569590/4724216271/85276?checkedby:hlscat.com
-#EXTINF:-1, AXN
-http:\\stream4.tvit.ba:8088\live?channelId=138&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Fox
-http:\\stream4.tvit.ba:8088\live?channelId=167&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Fox life
-http:\\stream4.tvit.ba:8088\live?channelId=43&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Fox crime
-http:\\stream4.tvit.ba:8088\live?channelId=233&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, HBO 1
-http:\\stream4.tvit.ba:8088\live?channelId=84&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, HBO 2
-http:\\stream1.tvit.ba:8088\live?channelId=85&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, N1 BiH
-http:\\stream2.tvit.ba:80\live?channelId=177&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Nova BiH
-http:\\stream2.tvit.ba:80\live?channelId=40&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Sarajevo
-http:\\stream2.tvit.ba:80\live?channelId=7&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Pink Film
-http:\\stream3.tvit.ba:8088\live?channelId=92&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, RTL crime
-http:\\stream4.tvit.ba:8088\live?channelId=119&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, RTL Kockica
-http:\\stream2.tvit.ba:80\live?channelId=120&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, RTL Living
-http:\\stream4.tvit.ba:8088\live?channelId=166&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, RTL Pasion
-http:\\stream4.tvit.ba:8088\live?channelId=147&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Hram
-https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Telemundo
-http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\658
-#EXTINF:-1, Bravo
-http:\\us1-external-sources.iptvserver.tv:80\kkkrkDp2a9KNwAwGzpb\QT94uK5NNQw4r4Qs\489
-#EXTINF:-1, PRO 7
-http:\\stream3.tvit.ba:8088\live?channelId=78&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, Vox HD
-http:\\stream3.tvit.ba:8088\live?channelId=49&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1, CNN
-http:\\stream3.tvit.ba:8088\live?channelId=52&uid=216&deviceMac=00:1A:79:2A:12:11
-#EXTINF:-1,Russia Today
-http://85.14.32.15:8800/udp/239.100.10.133:5000
-#EXTINF:-1,BBC World News
-http://85.14.32.15:8800/udp/239.100.20.49:8888
-#EXTINF:-1,Euronews Russian
-http://85.14.32.15:8800/udp/239.100.20.50:8888
-#EXTINF:-1,NTV MIR
-http://85.14.32.15:8800/udp/239.100.20.51:8888
-#EXTINF:-1,TVE Internacional HD
-http://85.14.32.15:8800/udp/239.100.20.7:8888
-#EXTINF:-1,Discovery HD
-http://200.95.184.42:8000/play/a0e1
-#EXTINF:-1,Discovery Theater HD
-http://200.95.184.42:8000/play/a0am
-#EXTINF:-1,Discovery World HD
-http://200.95.184.42:8000/play/a05b
-#EXTINF:-1,History 2 HD
-http://200.95.184.42:8000/play/a0e4
-#EXTINF:-1,History Channel HD
-http://200.95.184.42:8000/play/a06b
-#EXTINF:-1,Nat Geo HD
-http://200.95.184.42:8000/play/a05a
-#EXTINF:-1,Nat Geo Wild HD
-http://200.95.184.42:8000/play/a0an
-#EXTINF:-1,Challenge
-http://37.220.108.9:8000/play/a00t/index.m3u8
-#EXTINF:-1,Channel 4
-http://37.220.108.9:8000/play/a02a/index.m3u8
-#EXTINF:-1,Channel 4 HD
-http://37.220.108.9:8000/play/a00l/index.m3u8
-#EXTINF:-1,Channel 4+1
-http://37.220.108.9:8000/play/a02e/index.m3u8
-#EXTINF:-1,BBC ONE HD
-http://37.220.108.9:8000/play/a00j/index.m3u8
-#EXTINF:-1,BBC TWO HD
-http://37.220.108.9:8000/play/a00i/index.m3u8
-#EXTINF:-1,BBC FOUR HD
-http://37.220.108.9:8000/play/a034/index.m3u8
-#EXTINF:-1, Art
-rtmp://92.60.237.39/live/test
-#EXTINF:-1, TV As
-http://185.20.36.233:8080/stream?sp=partners&channel=tvassi3sbb&stream=1mb&b=6&player=m3u8&u=tvas&p=tva5str3am1ng
-#EXTINF:-1, Melos
-rtmp://46.151.133.87/live/melos
-#EXTINF:-1,Jefimija
-rtmp://212.200.108.253/live/jefimija.flv
-#EXTINF:-1, Krusevac
-http://91.148.123.53:8888/ipvt_009
-#EXTINF:-1, Cizy UB
-http://167.172.39.13/hls/tvcityub.m3u8
-#EXTINF:-1, BAP
-https://5bc45691ca49f.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1, Pi
-http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1, Pirot tv
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-#EXTINF:-1, Subotica
-http://185.20.36.4:8080/stream?sp=partners&channel=tvsubotica&stream=1mb&b=6&player=m3u8&u=citytv&p=c1tysubotic@&adamptive=false
-#EXTINF:-1, Mars Valjevo
-http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
-#EXTINF:-1, Tv Mir
-http://91.187.119.106:8027/rtvmir/index.m3u8
-#EXTINF:-1, Mis tv
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
-#EXTINF:-1, TK
-rtmp://91.148.117.134/tkturist/tkturist
-#EXTINF:-1, Kanal M
-http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1, Puls
-http://stream.rtvpuls.com/broadcasting
-#EXTINF:-1, Sandzak
-http://46.240.128.178:4444/STVHD
-#EXTINF:-1, Pruga TV
-https://stream.pruga.rs:8443/live/pruga/index.m3u8
-#EXTINF:-1, Panon TV
-http://79.172.194.189/hls/pannonrtv/live.m3u8
-#EXTINF:-1, Tesla Vision
-http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
-#EXTINF:-1, Super Tuzla
-https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1, Kladovo
-http://ip365.cx:80/591479399642519/845556651954303/174312?checkedby:hlscat.com
-#EXTINF:-1, Plus
-http://ip365.cx:80/591479399642519/845556651954303/174317?checkedby:hlscat.com
-#EXTINF:-1,************ SERBIAN **************
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/526
 #EXTINF:-1,RTS 1 HD
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/430
 #EXTINF:-1,RTS 1 HD Bekup
@@ -327,6 +26,8 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/669
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/223
 #EXTINF:-1,Prva Plus
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/224
+#EXTINF:-1,(RS) Prva +
+http:\\stream4.tvit.ba:8088\live?channelId=172&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,Prva Max
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/784
 #EXTINF:-1,Prva World
@@ -335,12 +36,6 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/785
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/786
 #EXTINF:-1,O2 TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/174
-#EXTINF:-1,N1 SRB
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/674
-#EXTINF:-1,Nova S TV
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/783
-#EXTINF:-1,NOVA RS
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/342
 #EXTINF:-1,RTV Novi  Pazar
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/787
 #EXTINF:-1,RTV Vojvodina 1
@@ -349,12 +44,64 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/798
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/799
 #EXTINF:-1,Happy Tv
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/436
+#EXTINF:-1, Happy
+http:\\stream3.tvit.ba:8088\live?channelId=174&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, Srpska dijaspora
+https://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1,(RS) RTK 2
+http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
+#EXTINF:-1,KCN 1
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/563
+#EXTINF:-1, Art
+rtmp://92.60.237.39/live/test
+#EXTINF:-1,Jefimija
+rtmp://212.200.108.253/live/jefimija.flv
+#EXTINF:-1, Krusevac
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1, City UB
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1, BAP
+https://5bc45691ca49f.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1, Pi
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1, Pirot tv
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1, Mars Valjevo
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1, Mis tv
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
+#EXTINF:-1, TK
+rtmp://91.148.117.134/tkturist/tkturist
+#EXTINF:-1, Kanal M
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1, Pruga TV
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1,Pink
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/13
+#EXTINF:-1,Pink 2
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/28
+#EXTINF:-1,Pink 3
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/605
+#EXTINF:-1, Panon TV
+http://79.172.194.189/hls/pannonrtv/live.m3u8
+#EXTINF:-1, Tesla Vision
+http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
+#EXTINF:-1, Kladovo
+http://ip365.cx:80/591479399642519/845556651954303/174312?checkedby:hlscat.com
+#EXTINF:-1, Plus
+http://ip365.cx:80/591479399642519/845556651954303/174317?checkedby:hlscat.com
 #EXTINF:-1,PAROVI LIVE 24/7
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/697
 #EXTINF:-1,******* BOSNIA&HERZEGOVINA ********
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/790
 #EXTINF:-1,N1 Bosna
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/402
+#EXTINF:-1, BN
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1,BN 2
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/311
+#EXTINF:-1,Krajina HD
+rtmp://77.243.11.114/live/rtvkrajina
 #EXTINF:-1,BHT 1
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/222
 #EXTINF:-1,Hayat BIH
@@ -373,10 +120,24 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/473
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/802
 #EXTINF:-1,RTRS+
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/803
+#EXTINF:-1,Tv Sarajevo
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/812
+#EXTINF:-1,O tv
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/310
+#EXTINF:-1,RTV Zenica
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/810
+#EXTINF:-1,TK Tuzla TV
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/811
+#EXTINF:-1,TV SLON
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/813
 #EXTINF:-1,ATV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/804
 #EXTINF:-1,OTV Valentino
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/805
+#EXTINF:-1,HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1, Super Tuzla
+https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1,MTV Igman Tv
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/806
 #EXTINF:-1,Televizija 5
@@ -385,22 +146,10 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/807
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/808
 #EXTINF:-1,Izvorna TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/809
-#EXTINF:-1,RTV Zenica
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/810
-#EXTINF:-1,TK Tuzla TV
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/811
-#EXTINF:-1,Alfa Tv Sarajevo
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/812
-#EXTINF:-1,Tv 1
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/310
-#EXTINF:-1,TV SLON
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/813
 #EXTINF:-1,BUJRUM TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/776
 #EXTINF:-1,TV USK HD
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/814
-#EXTINF:-1,Al Jazeera Balkans
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/480
 #EXTINF:-1,************ MONTENEGRO **************
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/792
 #EXTINF:-1,RTCG
@@ -411,6 +160,10 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/667
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/666
 #EXTINF:-1,Televizija 777 CG
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/668
+#EXTINF:-1,(CG) 777
+http:\\109.123.70.27:1935\tehnikatv777\tehnikatv777\index.m3u8
+#EXTINF:-1,(CG) Crna Gora Sat
+http:\\rtcg2.videostreaming.rs:1935\rtcg\rtcg.1.stream\index.m3u8
 #EXTINF:-1,************ CROATIAN **************
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/794
 #EXTINF:-1,HRT 1 HD
@@ -463,6 +216,8 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/507
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/839
 #EXTINF:-1,BBC Earth
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/840
+#EXTINF:-1, HGTV
+http:\\stream4.tvit.ba:8088\live?channelId=140&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,Rtl Living
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/595
 #EXTINF:-1,Travel Channel
@@ -475,6 +230,10 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/835
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/242
 #EXTINF:-1,24 Kitchen
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/245
+#EXTINF:-1, Agro TV
+http://bazarhd.online:80/0144569590/4724216271/85276?checkedby:hlscat.com
+#EXTINF:-1, Foodnetwork
+http://ip365.cx:80/591479399642519/845556651954303/174150?checkedby:hlscat.com
 #EXTINF:-1,************ CARTOON ***************
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/795
 #EXTINF:-1,Hayatovci
@@ -551,32 +310,46 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/827
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/829
 #EXTINF:-1,Kino Tv HD
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/830
-#EXTINF:-1,************ PINK&MUSIC **************
+#EXTINF:-1,************ PINKOVI**************
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/791
-#EXTINF:-1,Pink
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/13
-#EXTINF:-1,Pink 2
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/28
-#EXTINF:-1,Pink 3
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/605
+#EXTINF:-1,Pink Plus
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/602
+#EXTINF:-1,Pink Zabava
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/607
+#EXTINF:-1,Pink Extra
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/598
+#EXTINF:-1,Pink Reality
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/597
+#EXTINF:-1,Pink Pedia
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/609
+#EXTINF:-1,Pink M
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/599
+#EXTINF:-1,Pink BIH
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/220
+#EXTINF:-1,Pink Media BH
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/673
+#EXTINF:-1,Pink World
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/600
+#EXTINF:-1,Pink Fashion
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/844
+#EXTINF:-1,Pink Style
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/845
+#EXTINF:-1,Pink LOL
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/846
+#EXTINF:-1,Pink HAHA
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/847
 #EXTINF:-1,Pink Film
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/486
 #EXTINF:-1,Pink  Premium
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/10
 #EXTINF:-1,Pink Action
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/8
-#EXTINF:-1,Pink BIH
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/220
-#EXTINF:-1,Pink Media BH
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/673
 #EXTINF:-1,Pink Movies
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/14
 #EXTINF:-1,Pink Comedy
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/33
 #EXTINF:-1,Pink Westren
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/395
-#EXTINF:-1,Pink World
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/600
 #EXTINF:-1,Pink Thriler
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/608
 #EXTINF:-1,Pink Sci Fi & Fantasy
@@ -587,46 +360,19 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/606
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/601
 #EXTINF:-1,Pink Romance
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/610
-#EXTINF:-1,Pink Reality
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/597
-#EXTINF:-1,Pink Plus
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/602
-#EXTINF:-1,Pink Pedia
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/609
-#EXTINF:-1,Pink M
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/599
 #EXTINF:-1,Pink Horor
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/603
-#EXTINF:-1,Pink Music
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/27
-#EXTINF:-1,Pink Music 2
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/841
-#EXTINF:-1,Pink Folk 1
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/315
-#EXTINF:-1,Pink Folk 2
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/596
-#EXTINF:-1,Pink Zabava
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/607
-#EXTINF:-1,Pink Extra
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/598
-#EXTINF:-1,Pink Koncert
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/842
-#EXTINF:-1,Pink Bravo
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/843
-#EXTINF:-1,Pink Fashion
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/844
-#EXTINF:-1,Pink Style
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/845
-#EXTINF:-1,Pink LOL
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/846
-#EXTINF:-1,Pink HAHA
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/847
-#EXTINF:-1,Pink & Roll
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/848
+#EXTINF:-1,************ MUSIC **************
+#EXTINF:-1, S televizija
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
+#EXTINF:-1, Amari tv
+https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, IDJTV
+http:\\stream4.tvit.ba:8088\live?channelId=88&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, MTV
+http:\\stream3.tvit.ba:8088\live?channelId=90&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,BN Music
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/316
-#EXTINF:-1,BN Sat
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/311
 #EXTINF:-1,Grand TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/241
 #EXTINF:-1,DM Sat
@@ -637,12 +383,24 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/594
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/488
 #EXTINF:-1,Planeta tv
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/557
-#EXTINF:-1,KCN 1
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/563
 #EXTINF:-1,KCN 2
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/564
 #EXTINF:-1,KCN 3
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/565
+#EXTINF:-1,Pink Music
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/27
+#EXTINF:-1,Pink Music 2
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/841
+#EXTINF:-1,Pink Folk 1
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/315
+#EXTINF:-1,Pink Folk 2
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/596
+#EXTINF:-1,Pink Koncert
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/842
+#EXTINF:-1,Pink Bravo
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/843
+#EXTINF:-1,Pink & Roll
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/848
 #EXTINF:-1,************ MACEDONIAN **************
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/793
 #EXTINF:-1,MRT 1 Mk
@@ -1157,146 +915,79 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/425
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/426
 #EXTINF:-1,Desire
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/474
-#EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="XXX",A3BIKINI TV (720p)
+#EXTINF:-1,A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Anal
+#EXTINF:-1,Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-name="AdultIPTV.net Anal" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Anal
+#EXTINF:-1,Anal-
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.fr" tvg-name="AdultIPTV.net Asian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Asian
+#EXTINF:-1 Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.fr" tvg-name="AdultIPTV.net Big Ass" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
+#EXTINF:-1,BigAss
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.fr" tvg-name="AdultIPTV.net Big Ass" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.fr" tvg-name="AdultIPTV.net Big Dick" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
+#EXTINF:-1,BigDick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.fr" tvg-name="AdultIPTV.net Big Dick" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.fr" tvg-name="AdultIPTV.net Big Tits" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
+#EXTINF:-1,Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.fr" tvg-name="AdultIPTV.net Big Tits" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.fr" tvg-name="AdultIPTV.net Blonde" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blonde
+#EXTINF:-1,Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.fr" tvg-name="AdultIPTV.net Blowjob" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
+#EXTINF:-1,Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.fr" tvg-name="AdultIPTV.net Blowjob" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.fr" tvg-name="AdultIPTV.net Brunette" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Brunette
+#EXTINF:-1,Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.fr" tvg-name="AdultIPTV.net Compilation" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Compilation
+#EXTINF:-1,Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.fr" tvg-name="AdultIPTV.net Cuckold" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
+#EXTINF:-1,Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.fr" tvg-name="AdultIPTV.net Cuckold" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.fr" tvg-name="AdultIPTV.net Fetish" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
+#EXTINF:-1,Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.fr" tvg-name="AdultIPTV.net Fetish" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.fr" tvg-name="AdultIPTV.net Gangbang" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
+#EXTINF:-1,Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.fr" tvg-name="AdultIPTV.net Gangbang" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
-http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.fr" tvg-name="AdultIPTV.net Gay" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.fr" tvg-name="AdultIPTV.net Hardcore" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
+#EXTINF:-1,Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.fr" tvg-name="AdultIPTV.net Hardcore" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.fr" tvg-name="AdultIPTV.net Interracial" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
+#EXTINF:-1,Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.fr" tvg-name="AdultIPTV.net Interracial" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.fr" tvg-name="AdultIPTV.net Latina" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Latina
+#EXTINF:-1,Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.fr" tvg-name="AdultIPTV.net Latina" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.fr" tvg-name="AdultIPTV.net Lesbian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
+#EXTINF:-1,Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.fr" tvg-name="AdultIPTV.net Lesbian" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.fr" tvg-name="AdultIPTV.net Live Cams" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Live Cams
+#EXTINF:-1,LiveCams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.fr" tvg-name="AdultIPTV.net MILF" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net MILF
+#EXTINF:-1,MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.fr" tvg-name="AdultIPTV.net MILF" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.fr" tvg-name="AdultIPTV.net Pornstar" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
+#EXTINF:-1,Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.fr" tvg-name="AdultIPTV.net Pornstar" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.fr" tvg-name="AdultIPTV.net POV" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net POV
+#EXTINF:-1,POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.fr" tvg-name="AdultIPTV.net POV" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.fr" tvg-name="AdultIPTV.net Rough" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Rough
+#EXTINF:-1,Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.fr" tvg-name="AdultIPTV.net Russian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Russian
+#EXTINF:-1,Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.fr" tvg-name="AdultIPTV.net Russian" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.fr" tvg-name="AdultIPTV.net Teen" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Teen
+#EXTINF:-1,Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.fr" tvg-name="AdultIPTV.net Teen" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.fr" tvg-name="AdultIPTV.net Threesome" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
+#EXTINF:-1,Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.fr" tvg-name="AdultIPTV.net Threesome" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.fr" tvg-name="AdultIPTV.net Woman" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Woman
+#EXTINF:-1,Woman.
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 1 (HD)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 1 (HQ)
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 1 (LQ)
-https://www.ast.tv/stream/1/normal.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 1 (PC) (1080p)
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-name="AST TV 1" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 1 (Phone)
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 2 (Cellular)
-http://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 2 (HD)
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 2 (HQ)
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 2 (LQ)
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-title="XXX",AST TV 2 (PC) (1080p)
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="HustlerTV.us" tvg-name="Hustler TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",Hustler TV
+#EXTINF:-1,HustlerTV
 http://188.35.9.26:2030/udp/047c
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-name="Jasmin TV" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="XXX",Jasmin TV (720p)
+#EXTINF:-1,JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-name="Jasmin TV" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="XXX",Jasmin TV (720p)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-name="Miami TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="XXX",Miami TV
+#EXTINF:-1,MiamiTV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-name="Miami TV Jenny Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="XXX",Miami TV Jenny Live
+#EXTINF:-1,MiamiTVJennyLive
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-name="Miami TV Latino" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-url="" group-title="XXX",Miami TV Latino
+#EXTINF:-1,MiamiTVLatino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-name="Miami TV MÃ©xico" tvg-country="US" tvg-language="Spanish" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" tvg-url="" group-title="XXX",Miami TV MÃ©xico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-name="Playboy TV" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" tvg-url="" group-title="XXX",Playboy TV
+#EXTINF:-1,MiamiTVMexicos
+#EXTINF:-1,PlayboyTV
 http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-url="" group-title="XXX",Private TV
+#EXTINF:-1,PrivateTV
 http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-url="" group-title="XXX",Private TV
+#EXTINF:-,PrivateTV.us
 http://source-streams.com:8081/buyasaponline/26022019/95
-#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="Reality Kings TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" tvg-url="" group-title="XXX",Reality Kings TV
+#EXTINF:-1,RealityKings
 http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="XXX",Visit-X TV (720p)
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="XXX",Visit-X TV (360p)
-http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="XXX",Visit-X TV (720p)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-name="Visit-X TV" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-url="" group-title="XXX",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1, Brazzers
 http:\\portal.simiptv.co.uk:8080\alipajiuk\oRGQpcPAkZ\295
 #EXTINF:-1, Adult 1
