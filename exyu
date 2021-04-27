@@ -54,6 +54,8 @@ http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/563
 #EXTINF:-1, Art
 rtmp://92.60.237.39/live/test
+#EXTINF:-1, Bellame Nis
+http:\\92.60.238.10:1935\live\belleamie\chunklist_w1811501290.m3u8
 #EXTINF:-1,Jefimija
 rtmp://212.200.108.253/live/jefimija.flv
 #EXTINF:-1, Krusevac
@@ -124,6 +126,8 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/803
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/812
 #EXTINF:-1,O tv
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/310
+#EXTINF:-1,B1
+http:\\proxy.bihnet.net:88\live\b1tv.m3u8
 #EXTINF:-1,RTV Zenica
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/810
 #EXTINF:-1,TK Tuzla TV
@@ -391,6 +395,8 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/557
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/564
 #EXTINF:-1,KCN 3
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/565
+#EXTINF:-1,Duga +
+http:\\109.92.29.10:1935\tvduga\tvduga\chunklist_w1097511114.m3u8
 #EXTINF:-1,Pink Music
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/27
 #EXTINF:-1,Pink Music 2
