@@ -56,6 +56,8 @@ https://live.tsd-tv.com/live/tsd.m3u8
 http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
 #EXTINF:-1,KCN 1
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/563
+#EXTINF:-1, Studio B
+http:\\iptv.iptivihd.com:8888\VisionTV352678\QSAUKYAxdO\33338?checkedby:iptvcat.com
 #EXTINF:-1, Art
 rtmp://92.60.237.39/live/test
 #EXTINF:-1, Bellame Nis
