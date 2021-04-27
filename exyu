@@ -381,6 +381,8 @@ https://hlscat.com/my_list/s/381a247a8fa223b94b8ffef736292e04.m3u8
 https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDJTV
 http:\\stream4.tvit.ba:8088\live?channelId=88&uid=216&deviceMac=00:1A:79:2A:12:11
+#EXTINF:-1, IDJTV Musix
+http:\\pn.tvott.info:80\1932742343\4458181593\85221?checkedby:iptvcat.com
 #EXTINF:-1, MTV
 http:\\stream3.tvit.ba:8088\live?channelId=90&uid=216&deviceMac=00:1A:79:2A:12:11
 #EXTINF:-1,BN Music
