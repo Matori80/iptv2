@@ -2,8 +2,8 @@
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/526
 #EXTINF:-1,N1 SRB
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/674
-#EXTINF:-1,(RS) N1 Srbija
-http://fresat.live:8080/alvaro/alvaro/353516?checkedby:hlscat.com
+#EXTINF:-1,N1 Srbija
+https://hlscat.com/my_list/s/84294bffb8779eeae0a39e6b424cab6a.m3u8
 #EXTINF:-1,Nova S TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/783
 #EXTINF:-1,NOVA RS
@@ -365,6 +365,10 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/603
 #EXTINF:-1,************ MUSIC **************
 #EXTINF:-1, S televizija
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
+#EXTINF:-1, Jugoton
+https://hlscat.com/my_list/s/a242a657833e1f5cc5ad6689f2016c2a.m3u8
+#EXTINF:-1, Jugoton Beckup
+https://hlscat.com/my_list/s/381a247a8fa223b94b8ffef736292e04.m3u8
 #EXTINF:-1, Amari tv
 https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDJTV
