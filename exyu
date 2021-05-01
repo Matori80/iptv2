@@ -3,7 +3,7 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/526
 #EXTINF:-1,N1 SRB
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/674
 #EXTINF:-1,N1 Srbija
-https://hlscat.com/my_list/s/84294bffb8779eeae0a39e6b424cab6a.m3u8
+https://hlscat.com/my_list/s/56ef108c8e01d26a81ccd1bda59fa9dc.m3u8
 #EXTINF:-1,Nova S TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/783
 #EXTINF:-1,NOVA RS
@@ -38,7 +38,7 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/784
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/785
 #EXTINF:-1,Prva Kick
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/786
-#EXTINF:-1,O2 TV
+#EXTINF:-1,B92 TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/174
 #EXTINF:-1,RTV Novi  Pazar
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/787
@@ -232,6 +232,8 @@ http:\\stream4.tvit.ba:8088\live?channelId=140&uid=216&deviceMac=00:1A:79:2A:12:
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/595
 #EXTINF:-1,Travel Channel
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/836
+#EXTINF:-1,Travel XP
+https://hlscat.com/my_list/s/9646f28a8c3480028b175cb12568180a.m3u8
 #EXTINF:-1,Lov i Ribolov
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/320
 #EXTINF:-1,TLC
@@ -380,7 +382,7 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/603
 #EXTINF:-1, S televizija
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
 #EXTINF:-1, Jugoton
-https://hlscat.com/my_list/s/a242a657833e1f5cc5ad6689f2016c2a.m3u8
+https://hlscat.com/my_list/s/5254f39f02233d0eb7929f6d0566cebf.m3u8
 #EXTINF:-1, Jugoton Beckup
 https://hlscat.com/my_list/s/381a247a8fa223b94b8ffef736292e04.m3u8
 #EXTINF:-1, Amari tv
