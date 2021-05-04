@@ -86,18 +86,14 @@ http://176.67.210.1/hls/kanalm.m3u8
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:-1,Pink
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/13
-#EXTINF:-1,Pink 2
+#EXTINF:-1,Red TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/28
-#EXTINF:-1,Pink 3
+#EXTINF:-1,Vesti
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/605
 #EXTINF:-1, Panon TV
 http://79.172.194.189/hls/pannonrtv/live.m3u8
 #EXTINF:-1, Tesla Vision
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
-#EXTINF:-1, Kladovo
-http://ip365.cx:80/591479399642519/845556651954303/174312?checkedby:hlscat.com
-#EXTINF:-1, Plus
-http://ip365.cx:80/591479399642519/845556651954303/174317?checkedby:hlscat.com
 #EXTINF:-1,PAROVI LIVE 24/7
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/697
 #EXTINF:-1,******* BOSNIA&HERZEGOVINA ********
@@ -194,6 +190,8 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/153
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/203
 #EXTINF:-1,RTL 2
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/325
+#EXTINF:-1, Domaći
+https://stream.domaci.com.hr:3865/live/domacitvlive.m3u8
 #EXTINF:-1,Osjecka TV
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/815
 #EXTINF:-1,Laudato TV HR
